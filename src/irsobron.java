@@ -1,6 +1,6 @@
 public class irsobron implements CUASI{
     public void cuasi(){
 
-        System.out.println("irsobron");
+        System.out.println("irsobron   ");
     }
 }
